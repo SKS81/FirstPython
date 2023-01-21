@@ -2,6 +2,7 @@
 # FirstPythonEchoBot
 # имя бота @EchoSKS81Bot
 # ссылка https://t.me/EchoSKS81Bot
+# токен 5906828776:AAFuRGrDmoZ26wXrf2ufxW4taP4hiC4i5uQ
 
 import telebot
 
