@@ -2,4 +2,5 @@
 Scripts/
 site-packages/
 __pycache__/
+Lib/
 pyvenv.cfg
