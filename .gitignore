@@ -1,1 +1,4 @@
 .idea/
+Scripts/
+site-packages/
+__pycache__/
